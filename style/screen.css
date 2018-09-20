@@ -3,5 +3,11 @@ body {
 }
 
 p {
+    font-weight: bold;
+    text-align: center;
     border: dotted;
+}
+
+img {
+    width: 100%;
 }
