@@ -9,5 +9,13 @@ p {
 }
 
 img {
-    width: 100%;
+    float: left;
+}
+
+span {
+    float: left;
+    font-style: italic;
+    margin-left: 5%;
+    margin-top: 20%;
+    font-size: 30px;
 }
